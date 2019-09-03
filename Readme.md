@@ -8,6 +8,10 @@ To run this program, input "python main.py" with options including:
 -s: str, the start date of the semester which should be of format: Month-Day-Year
 -e: str, the end date of the semester which should be of format: Month-Day-Year
 
+To run:
+"python main.py -f course_schedule.csv -t calendar.csv -s 9-1-2019 -e 12-20-2019"
+
+
 Additional:
 The course schedule file should have the properties below:
     course_name,
