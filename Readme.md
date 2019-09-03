@@ -1,6 +1,6 @@
 **This is not a really project because this piece of code only takes me couple of minutes. Thus, there might be various kinds of problems. Pull it with caution :-D**
 
-**This program is aimed at parse a course schadule into importable csv file for Google Calendar.**
+**This program is aimed at parsing a course schadule into importable csv file for Google Calendar.**
 
 To run this program, input "python main.py" with options including:
 -f: str, the path of the course schedule which should be a csv file
